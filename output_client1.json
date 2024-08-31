@@ -1,0 +1,26 @@
+[
+  {
+    "ClientID": 1,
+    "Prompt": "What is an operating system?",
+    "Message": "What is an operating system? An operating system is simply what you type through four different terminal types:\n\nALT V TRANSMISSION specifying a mode of operation\n\nTYPE OF TUNE announcing and specifying abbreviation mechanism for OPTIONS\n\nCHANGES of DATA handling including data volume setting\n\nEDI setting fire alarm\n\nChoose between START GROUPS (REQUEST EXPECTED) or END GROUPS (REQUEST ERROL) which facilitate reset data. Double A (REV DEMONSTR",
+    "TimeSent": 1725095815,
+    "TimeRecvd": 1725095817,
+    "Source": "HuggingFace-GPT2"
+  },
+  {
+    "ClientID": 1,
+    "Prompt": "What is the OSI model?",
+    "Message": "What is the OSI model? And... what is the main Python3 features of the project?\n\nKalikan: Python3 is a server-side web and mobile web framework developed as part of Spring. It is the successor to PHP and makes Django and other web frameworks easily accessible by its built-in features like packed loading, quickified plugin manager... (this was so well known for the Eclipse Framework.)\n\nWhat do you think is the German open source community's great opportunity to build a Django-style ASP.",
+    "TimeSent": 1725095817,
+    "TimeRecvd": 1725095820,
+    "Source": "HuggingFace-GPT2"
+  },
+  {
+    "ClientID": 1,
+    "Prompt": "Who was Alan Turing?",
+    "Message": "Who was Alan Turing? or even Morris Dees? Ruby Arrowman famously quipped: \"All princes and dictators prize close allies and close sympathies. Those are just what it takes to be a great genius.\" Randall Wilder, whose over 14 million readers this year this of a piece traces to Publisher Andy Warhol's work on Sherlock and his work on the Hobbit, echoed Wilder. So George Osborne should acknowledge this. And for others he should be applauding. Warhol is not broke. Far less convinced of",
+    "TimeSent": 1725095820,
+    "TimeRecvd": 1725095823,
+    "Source": "HuggingFace-GPT2"
+  }
+]
